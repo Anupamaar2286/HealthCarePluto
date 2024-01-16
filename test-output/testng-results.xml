@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-16T12:10:13 IST" name="Default suite" finished-at="2024-01-16T12:10:31 IST" duration-ms="17445">
+    <groups>
+    </groups>
+    <test started-at="2024-01-16T12:10:13 IST" name="Default test" finished-at="2024-01-16T12:10:31 IST" duration-ms="17445">
+      <class name="testScrpitRepo.SE001">
+        <test-method is-config="true" signature="dbConnection()[pri:0, instance:testScrpitRepo.SE001@54a7079e]" started-at="2024-01-16T12:10:13 IST" name="dbConnection" finished-at="2024-01-16T12:10:13 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConnection -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testScrpitRepo.SE001@54a7079e]" started-at="2024-01-16T12:10:13 IST" name="launchBrowser" finished-at="2024-01-16T12:10:18 IST" duration-ms="5035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:testScrpitRepo.SE001@54a7079e]" started-at="2024-01-16T12:10:18 IST" name="loginApplication" finished-at="2024-01-16T12:10:19 IST" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="filterOption()[pri:0, instance:testScrpitRepo.SE001@54a7079e]" started-at="2024-01-16T12:10:19 IST" name="filterOption" finished-at="2024-01-16T12:10:30 IST" duration-ms="11156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterOption -->
+        <test-method is-config="true" signature="logoutAppliaction()[pri:0, instance:testScrpitRepo.SE001@54a7079e]" started-at="2024-01-16T12:10:30 IST" name="logoutAppliaction" finished-at="2024-01-16T12:10:30 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutAppliaction -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testScrpitRepo.SE001@54a7079e]" started-at="2024-01-16T12:10:30 IST" name="closeBrowser" finished-at="2024-01-16T12:10:31 IST" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="closeDbConnection()[pri:0, instance:testScrpitRepo.SE001@54a7079e]" started-at="2024-01-16T12:10:31 IST" name="closeDbConnection" finished-at="2024-01-16T12:10:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDbConnection -->
+      </class> <!-- testScrpitRepo.SE001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
